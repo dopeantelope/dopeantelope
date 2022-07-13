@@ -1,5 +1,6 @@
 <img src="georgie conway (1).png">
 
+<img src="https://img.shields.io/badge/-LinkedIn-brightgreen"/>
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
