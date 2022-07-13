@@ -1,4 +1,4 @@
-<img src="georgie conway (1)">
+<img src="georgie conway (1).png">
 
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
