@@ -1,7 +1,7 @@
 <img src="georgie conway (1).png">
 
 <a href="https://www.linkedin.com/in/georgieconway" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-brightgreen"/>
+<img src="https://img.shields.io/badge/-LINKEDIN-blue"/>
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
