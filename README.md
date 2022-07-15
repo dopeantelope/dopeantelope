@@ -1,6 +1,6 @@
 <img src="georgie conway (1).png">
 <p align="center">
-  <img src="https://img.shields.io/badge/|-TWITTER-179aa7?style=for-the-badge&logo=twitter&logoColor=FFF"/>
+  <img style="margin-right: 10px" src="https://img.shields.io/badge/|-TWITTER-179aa7?style=for-the-badge&logo=twitter&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-LINKEDIN-179aa7?style=for-the-badge&logo=linkedin&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-WEBSITE-179aa7?style=for-the-badge&logo=atom&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-CONTACT_ME-179aa7?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
