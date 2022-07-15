@@ -15,6 +15,12 @@
 </p>
 
 A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring about real positive change.
+
+<h1 align="center">Technologies</h1>
+
+<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5"/>
+
+
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
