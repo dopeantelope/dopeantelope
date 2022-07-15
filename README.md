@@ -14,7 +14,7 @@
   </a>
 </p>
 
-A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring positive change.
+A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring about real positive change.
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
