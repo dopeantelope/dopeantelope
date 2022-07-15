@@ -1,16 +1,16 @@
 <img src="georgie conway (1).png">
 <p align="center">
   <a href="https://twitter.com/dopeantelope_" target="_blank">
-    <img src="https://img.shields.io/badge/|-TWITTER-214357?style=for-the-badge&logo=twitter&logoColor=FFF"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=twitter&color=%231DA1F2&style=for-the-badge&logo=twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/georgieconway/" target="_blank">
-    <img src="https://img.shields.io/badge/|-LINKEDIN-214357?style=for-the-badge&logo=linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=linkedin&color=%230A66C2&style=for-the-badge&logo=linkedin&logoColor=%230A66C2"/>
   </a>
   <a href="https://www.georgieconway.com" target="_blank">
-    <img src="https://img.shields.io/badge/|-WEBSITE-214357?style=for-the-badge&logo=atom&logoColor=FFF)"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=%2303EF62&style=for-the-badge&logo=atom&logoColor=%2303EF62"/>
   </a>
   <a href="mailto: georgieaconway@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/|-CONTACT_ME-214357?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Contact&color=%23FF3621&style=for-the-badge&logo=mailgun&logoColor=%23FF3621"/>
   </a>
 </p>
 
