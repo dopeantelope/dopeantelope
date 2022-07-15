@@ -25,7 +25,7 @@ A software engineer motivated by curiosity and a passion to seek new challenges.
   <img src="https://img.shields.io/static/v1?label=|&message=NODE.js&color=%23339933&style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/static/v1?label=|&message=React&color=%2361DAFB&style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/static/v1?label=|&message=mongodb&color=%2347A248&style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=tailwind&color=%2306B6D4&style=for-the-badge&logo=tailwind+css)">
+  <img src="https://img.shields.io/static/v1?label=|&message=tailwind&color=%2306B6D4&style=for-the-badge&logo=tailwind+css">
   <img src="https://img.shields.io/static/v1?label=|&message=chartjs&color=%23FF6384&style=for-the-badge&logo=chart.js"/>
   <img src="https://img.shields.io/static/v1?label=|&message=wordpress&color=%2321759B&style=for-the-badge&logo=wordpress&logoColor=%2321759B">
   
