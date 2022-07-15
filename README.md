@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/|-CONTACT_ME-179aa7?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
   </a>
 </p>
+
+A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems.
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
