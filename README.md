@@ -12,6 +12,7 @@
   <a href="mailto: georgieaconway@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/|-CONTACT_ME-179aa7?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
   </a>
+  <img src="https://img.shields.io/badge/|-CONTACT_ME-214357?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
 </p>
 
 A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring about real positive change.
