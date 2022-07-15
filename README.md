@@ -1,10 +1,10 @@
 <img src="georgie conway (1).png">
-<div style="display: flex; align="center"">
+<p align="center">
   <img src="https://img.shields.io/badge/|-TWITTER-179aa7?style=for-the-badge&logo=twitter&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-LINKEDIN-179aa7?style=for-the-badge&logo=linkedin&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-WEBSITE-179aa7?style=for-the-badge&logo=atom&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/|-CONTACT_ME-179aa7?style=for-the-badge&logo=mailgun&logoColor=FFF"/>
-</div>
+</p>
 <!--
 **dopeantelope/dopeantelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
