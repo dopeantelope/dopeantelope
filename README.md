@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p style="font-size: 18px;">A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring about real positive change.</p>
+<h4>A software engineer motivated by curiosity and a passion to seek new challenges. A fast learner that adapts well to change and offers creative solutions to problems. Looking to use my background in chemistry and my engineering skills to bring about real positive change.</h4>
 
 
 <h1 align="center">Technologies</h1>
