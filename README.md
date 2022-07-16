@@ -21,7 +21,7 @@ A software engineer motivated by curiosity and a passion to seek new challenges.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/|-CSS3-?style=for-the-badge&logo=css3&logoColor=%231572B6#1572B6"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=%231572B6&style=for-the-badge&logo=CSS3&logoColor=%231572B6"/>
   <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/static/v1?label=|&message=NODE.js&color=%23339933&style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/static/v1?label=|&message=React&color=%2361DAFB&style=for-the-badge&logo=react"/>
@@ -29,7 +29,7 @@ A software engineer motivated by curiosity and a passion to seek new challenges.
   <img src="https://img.shields.io/static/v1?label=|&message=tailwind&color=%2306B6D4&style=for-the-badge&logo=tailwind+css">
   <img src="https://img.shields.io/static/v1?label=|&message=chartjs&color=%23FF6384&style=for-the-badge&logo=chart.js"/>
   <img src="https://img.shields.io/static/v1?label=|&message=wordpress&color=%2321759B&style=for-the-badge&logo=wordpress&logoColor=%2321759B">
-  <img src="https://img.shields.io/badge/|-Figma-?style=for-the-badge&logo=figma&logoColor=%23F24E1E#F24E1E"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Figma&color=%23F24E1E&style=for-the-badge&logo=figma&logoColor=%23F24E1E"/>
   
 </p>
 
